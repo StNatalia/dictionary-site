@@ -1,0 +1,10 @@
+# Технические папки Claude
+.claude/
+
+# Не относится к сайту словаря - это отдельная инфографика
+roadmap_ai_accessories.html
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.tmp
